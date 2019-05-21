@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-	char palavra[20], palavraInvertida[20];
+	char palavra[20];
 	
 	printf("Digite a string: ");
 	fgets(palavra, 20, stdin);
